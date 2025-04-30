@@ -44,7 +44,7 @@ public class text extends JFrame implements ActionListener {
  // create a panel to add buttons and textfield
  JPanel p = new JPanel();
 
- p.setBackground(Color.BLUE);
+ p.setBackground(Color.WHITE);
  // add buttons and textfield to panel
  p.add(t);
  p.add(b);
